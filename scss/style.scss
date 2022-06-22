@@ -117,8 +117,8 @@ h1, h2, h3, h4, h5,
 		display: block;
 		width: 100%;
 		font-weight: normal;
-		font-size: 60px;
-		line-height: .8;
+		font-size: 50px;
+		line-height: .9;
 		font-family: $font-tertiary;
 		@include media-breakpoint-down(lg){
 			font-size: 40px;
